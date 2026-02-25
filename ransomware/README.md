@@ -19,7 +19,7 @@ Ce développement m'a permis d'adopter la perspective d'un attaquant et de trans
 ### ⚙️ 4. Architecture et suivi
 * **Gestion des données :** Mise en place et gestion d'une base de données pour assurer le suivi précis des victimes
 
-** ENG **
+**ENG**
 
 > **Disclaimer:** AI was used to assist with spell checking and structuring this README to optimize its readability. 
 
@@ -80,4 +80,5 @@ git push
 ```
 
 ## Don't hesitate to ask questions !
+
 
